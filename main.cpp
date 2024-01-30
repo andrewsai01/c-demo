@@ -30,9 +30,9 @@ public :
         cin>>b;
         c=a-b;
         cout<<"\nThe Subtracted Value of " <<a <<" - " <<b<< " is:"<<c<<"\n";
-}
+
 };
-int secondsource :: multiplication()
+    int secondsource :: multiplication()
 {
     float a, b,c;
         cout<<"\n---Multiplication Program---";
